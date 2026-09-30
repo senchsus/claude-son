@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "colorful_tnt:block/yellow_tnt"
+    },
+    "lit=true": {
+      "model": "colorful_tnt:block/yellow_tnt"
+    }
+  }
+}

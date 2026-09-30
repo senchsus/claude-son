@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "colorful_tnt:block/sand_tnt"
+    },
+    "lit=true": {
+      "model": "colorful_tnt:block/sand_tnt"
+    }
+  }
+}

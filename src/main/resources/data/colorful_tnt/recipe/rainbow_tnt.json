@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "minecraft:tnt",
+    "minecraft:red_dye",
+    "minecraft:orange_dye",
+    "minecraft:yellow_dye",
+    "minecraft:green_dye",
+    "minecraft:light_blue_dye",
+    "minecraft:blue_dye",
+    "minecraft:purple_dye"
+  ],
+  "result": {
+    "id": "colorful_tnt:rainbow_tnt",
+    "count": 1
+  }
+}

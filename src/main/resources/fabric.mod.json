@@ -1,0 +1,24 @@
+{
+	"schemaVersion": 1,
+	"id": "colorful_tnt",
+	"version": "${version}",
+	"name": "Colorful TNT",
+	"description": "Разноцветные динамиты разной мощности: белый, жёлтый, оранжевый, красный, зелёный, синий, фиолетовый, чёрный, а также водный, песочный, лавовый и радужный.",
+	"authors": [
+		"You"
+	],
+	"license": "CC0-1.0",
+	"icon": "assets/colorful_tnt/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.colorfultnt.ColorfulTnt"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

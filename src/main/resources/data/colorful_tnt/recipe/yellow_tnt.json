@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "minecraft:tnt",
+    "minecraft:yellow_dye"
+  ],
+  "result": {
+    "id": "colorful_tnt:yellow_tnt",
+    "count": 1
+  }
+}

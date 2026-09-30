@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "minecraft:tnt",
+    "minecraft:sand"
+  ],
+  "result": {
+    "id": "colorful_tnt:sand_tnt",
+    "count": 1
+  }
+}
